@@ -1,0 +1,26 @@
+/* Responsive Css */
+
+
+/* Extra Large Device Above 1200px */
+
+@media (min-width:1200px) and (max-width:3600px) {}
+
+
+/* Large Device 992px -1199px */
+
+@media (min-width:992px) and (max-width:1199px) {}
+
+
+/* Madium Device 768px -992px */
+
+@media (min-width:768px) and (max-width:991px) {}
+
+
+/* Extra Small Device below 576px*/
+
+@media (max-width:767px) {}
+
+
+/* Small Device :550px*/
+
+@media only screen and (min-width:576px) and (max-width:767px) {}
