@@ -704,6 +704,9 @@ iframe {
         flex: 0 0 50%;
         margin-right: 2rem;
     }
+    .video-wrap{
+        height:0;
+    }
 }
 
 
